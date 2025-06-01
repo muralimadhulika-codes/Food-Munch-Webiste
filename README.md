@@ -6,7 +6,7 @@ Screenshots
 ![Screenshot 2025-06-01 095411](https://github.com/user-attachments/assets/6c00c31f-963e-4165-acb2-68dfb80494b5)
 ![Screenshot 2025-06-01 095440](https://github.com/user-attachments/assets/c228a699-5f38-40d9-a896-e0aff19d9e70)
 
-Languges and Tools
+Languges and Tools:
 HTML5
 CSS
 Bootstrap
